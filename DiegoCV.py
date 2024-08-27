@@ -23,7 +23,7 @@ col1, col2 = st.columns([1,1.5])
 #COLUMNA 1
 with col1:
    
-
+st.image("WhatsApp Image 2024-08-26 at 19.34.39.jpeg", width=160)
     st.markdown("#### **EDUCACION**") 
     st.markdown("###### Universidad Panamericana Campues Guadalajara Lic. Administración y Finanzas EN CURSO ")
     st.markdown(" ")
